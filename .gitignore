@@ -1,3 +1,5 @@
 .vscode/tasks.json
 main.exe
 .vscode
+output
+Client_out
